@@ -2,8 +2,6 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Link to the project: https://bitbucket.org/mitch_frauenheim/summer2019-module2group-458194/src/master/
-
 The project is a simple file-sharing site using PHP and HTML5 hosted on an AWS EC2 instance.  Features associated with this file sharing site is the use of:
 
   - SFTP (configuring EC2 instance for SSH and VS Code editor for SFTP via extension) -> you can secure the tranfer of files to the file-sharing site, no problem!
